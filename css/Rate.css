@@ -1,0 +1,19 @@
+.stars-wrap {
+  height: 3em;
+  width: 12em;
+  border: solid 1ps;
+  -webkit-box-shadow: 1px 1px 5px #00000055;
+          box-shadow: 1px 1px 5px #00000055;
+}
+
+.st-wrap {
+  color: #cccccc;
+  font-size: 1.3em;
+  height: 100%;
+  width: 15%;
+}
+
+.green {
+  color: green;
+}
+/*# sourceMappingURL=Rate.css.map */
